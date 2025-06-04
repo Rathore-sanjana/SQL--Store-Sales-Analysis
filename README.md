@@ -29,7 +29,7 @@ City  :  City of delivery
 Year-Month  :  Time-period format (e.g., 2024-07) derived from Order Date for time series analysis
 
 
-Problem Statement
+  Problem Statement
                              
 1.	Calculate total sales, profit, and quantity for each month.
 2.	Which category and sub-category generate the highest total profit?
@@ -54,7 +54,7 @@ Problem Statement
 21.	Calculate cumulative profit per month per category (running total).
 22.	Perform RFM (Recency, Frequency, Monetary) analysis using Order Date and Amount.
                     
-Technology Used
+  Technology Used
 
 MySQL:
 
@@ -76,7 +76,7 @@ Excel:
 
 For importing and reviewing the dataset
  
- Insights
+  Insights
                      
 •	Identified top-performing categories and sub-categories, helping prioritize inventory and marketing strategies.
 
